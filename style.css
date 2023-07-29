@@ -1,0 +1,235 @@
+body{
+    background-color: white;
+	min-height: 800px;
+}
+.MARDO2O{
+	width: 200px;
+	height: 150px;
+	margin-left: -69px;
+	margin-top: -113px;
+	border-radius: 20px 20px 20px 20px;
+}
+#CONGO1{
+	width: 253px;
+	height: 400px;
+	margin-top: 20px;
+	margin-left: 379px;
+	background-color:white;
+	border-radius: 10px 10px 10px 10px;
+}
+#hautP{
+	border: 2PX solid black;
+	width: 400px;
+	height: 250px;
+	margin-top: 2px;
+	margin-left: 889px;
+	background-color: white;
+	border-radius: 10px 10px 10px 10px;
+}
+.MARDO12O{
+	width: 200px;
+	height: 80px;
+	margin-left: -69px;
+	margin-top: -113px;
+	border-radius: 20px 20px 20px 20px;
+}
+#hautJ{
+	border: 2PX solid white;
+	width: 1400px;
+	height: 250px;
+	margin-top: 50px;
+	margin-left: 889px;
+	background-color:rgb(90, 8, 243);
+	border-radius: 10px 10px 10px 10px;
+}
+#hautL{
+	border: 2PX solid white;
+	width: 400px;
+	height: 250px;
+	margin-top: 2px;
+	margin-left: 889px;
+	background-color:rgb(90, 8, 243);
+	border-radius: 10px 10px 10px 10px;
+}
+.Titre{
+	background-color:greenyellow;
+	border-radius: 10px 10px 10px 10px;
+	text-align: center;
+	font-family: 'Courier New', Courier, monospace;
+	text-decoration-line: underline;
+}
+
+.Titre3 {
+	background-color: blue;
+	color: white;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 20px;
+	margin-top: 15px;
+	border-radius: 10px 10px 10px 10px;
+	text-align: center;
+	}
+		
+.Titre5 {
+	background-color: blue;
+	color: white;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 20px;
+	margin-top: 15px;
+	border-radius: 10px 10px 10px 10px;
+text-align: center;
+	}
+#hautH{
+	border: 2PX solid white;
+	width: 1308px;
+	height: 80px;
+	margin-top: 4px;
+	margin-left: 6px;
+	background-color:rgb(27, 243, 8);
+	border-radius: 10px 10px 10px 10px;
+}
+#hautW{
+	border: 2PX solid black;
+	width: 600px;
+	height: 500px;
+	margin-top: -1995px;
+	margin-left: 689px;
+	background-color:white;
+	border-radius: 10px 10px 10px 10px;
+	overflow: auto;
+}
+
+.h9{
+	margin-left: 450px;
+	margin-top: 200px;
+}
+
+#CONGO3{
+	width: 253px;
+	height: 400px;
+	margin-top: -450px;
+	margin-left: 700px;
+	background-color:white;
+	border-radius: 10px 10px 10px 10px;
+}
+#CONGO4{
+	width: 653px;
+	height: 200px;
+	margin-top: 90px;
+	margin-left: 119px;
+	background-color:white;
+	border-radius: 10px 10px 10px 10px;
+}
+
+#hautP{
+	border: 2PX solid black;
+	width: 400px;
+	height: 250px;
+	margin-top: 2px;
+	margin-left: 889px;
+	background-color: white;
+	border-radius: 10px 10px 10px 10px;
+}
+
+#hautJ{
+	border: 2PX solid white;
+	width: 400px;
+	height: 250px;
+	margin-top: 28px;
+	margin-left: 889px;
+	background-color:rgb(90, 8, 243);
+	border-radius: 10px 10px 10px 10px;
+}
+
+#hautL{
+	border: 2PX solid white;
+	width: 400px;
+	height: 250px;
+	margin-top: 122px;
+	margin-left: 889px;
+	background-color:rgb(90, 8, 243);
+	border-radius: 10px 10px 10px 10px;
+}
+.MARDO5{
+	margin-left: 5px;
+	margin-top: -70px;
+	border-radius: 20px 20px 20px 20px;
+}
+.MARDO05{
+	margin-left: 5px;
+	margin-top: -190px;
+	border-radius: 20px 20px 20px 20px;
+}
+.MARDO005{
+	margin-left: 5px;
+	margin-top: -680px;
+	border-radius: 20px 20px 20px 20px;
+}
+.MARDO3{
+	width: 200px;
+	height: 179px;
+	margin-left: 890px;
+	margin-top: -80px;
+	border-radius: 20px 20px 20px 20px;
+}
+.MARDO2{
+	width: 200px;
+	height: 179px;
+	margin-left: 20px;
+	margin-top: -120px;
+	border-radius: 20px 20px 20px 20px;
+}
+.MARDO1{
+	width: 6751368px;
+	height: 150px;
+	margin-left: -16px;
+	border-radius: 20px 20px 20px 20px;
+}
+.MARDO{
+	margin-left: 50px;
+	border-radius: 20px 20px 20px 20px;
+}
+.Titre12{
+	background-color:greenyellow;
+	border-radius: 12px 12px 12px 12px;
+	text-align: center;
+	font-family: 'Courier New', Courier, monospace;
+	text-decoration-line: underline;
+	margin-top: 6px;
+}
+.Titre13{
+	background-color:greenyellow;
+	border-radius: 12px 12px 12px 12px;
+	text-align: center;
+	font-family: 'Courier New', Courier, monospace;
+	text-decoration-line: underline;
+	margin-top: 6px;
+}
+
+#hautWw{
+	border: 2PX solid black;
+	width: 1300px;
+	height: 450px;
+	margin-top: 600px;
+	margin-left: 10px;
+	background-color:white;
+	border-radius: 10px 10px 10px 10px;
+}
+.foot{
+	display: inline-block;
+	width: 320px;
+	color: white;
+	}
+#PIED{
+    border: 2px solid black;
+    height: 200px;
+	background-color:black;
+	color: white;
+	margin-top: 1217px;
+}
+#PIED2{
+    border: 2px solid black;
+    height: 200px;
+	background-color:black;
+	color: white;
+	margin-top: 1818px;
+}
